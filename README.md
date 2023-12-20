@@ -7,13 +7,13 @@
 
 - 📫 How to reach me :
   - Email :  **onkarkarale4@gmail.com**
-  - Linkedin : **linkedin.com/in/omkarkarale541/**
-  - Twitter : **twitter.com/Onkar895**
+  - Linkedin :   **![linkedin.com/in/omkarkarale541](https://www.linkedin.com/in/omkarkarale541/)**
+  - Twitter : **![twitter.com/Onkar895](https://www.twitter.com/Onkar895)**
 
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left"> 
-<h3 align="left"><img src="https://icons8.com/icon/dhecLjnptiQg/front-end" alt=""> Front-End Development:</h3>
+<h3 align="left"><div class="icons8-front-end"></div>Front-End Development:</h3>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svghttps://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
