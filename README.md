@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi 👋, I'm Omkar Karale</h1> 
 </div>
-<h3 align="center">A passionate Front-End Developer</h2>
+<h3 align="center">A passionate Front-End Developer 🚀</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
