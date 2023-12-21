@@ -20,7 +20,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat" alt="onkar895" /></p>
 
-<br><br>
+<br>
 
 # 👩‍💻  About Me
 
