@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi 👋, I'm Omkar Karale</h1> 
 </div>
-<h3 align="center">A passionate Front-End Developer 🚀</h2>
+<h3 align="center">A Passionate Front-End Developer 🚀</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain-colored.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark colored.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
