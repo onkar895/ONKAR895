@@ -31,7 +31,7 @@
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.
 <br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## 🛠 Languages and tools
 <div align="left">
@@ -77,7 +77,7 @@
   
 ## 🔥 My Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&show_icons=true&locale=en&layout=compact" height="200" margin-right="30px" alt="onkar895" />
+&nbsp; &nbsp; &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&show_icons=true&locale=en&layout=compact" height="200" alt="onkar895" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="200" alt="onkar895" />
 
