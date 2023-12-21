@@ -20,6 +20,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat" alt="onkar895" /></p>
 
+<br><br>
+
 # 👩‍💻  About Me
 
 <img align="right" margin-left="20px" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
@@ -80,7 +82,7 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&show_icons=true&locale=en&layout=compact" height="220" alt="onkar895" />
    <br><br>
-   <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="220" alt="onkar895" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="200" alt="onkar895" />
 </div>
 <br>
 <div align="center">
