@@ -33,7 +33,8 @@
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.
 <br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
-<br><br><br><br>
+
+<br><br>
 
 ## 🛠 Languages and tools
 <div align="left">
@@ -84,7 +85,6 @@
    <br><br>
    <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="200" alt="onkar895" />
 </div>
-<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=onkar895&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
