@@ -29,6 +29,7 @@
 ⚡ Committed to continuous skill enhancement in desired areas .
 <br><br>
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.
+<br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 <br><br><br>
 
