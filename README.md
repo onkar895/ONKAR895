@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi 👋, I'm Omkar Karale
+   <h1>Hi 👋, I'm Omkar Karale</h1> 
 </div>
 <h3 align="center">A passionate Front-End Developer</h2>
 
@@ -29,7 +29,6 @@
 ⚡ Committed to continuous skill enhancement in desired areas .
 <br><br>
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.
-<br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 <br><br><br>
 
@@ -63,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="vite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo" />
   <img width="12" />
 </div>
 
