@@ -16,20 +16,24 @@
   </a>
 </div>
 
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat" alt="onkar895" /> </p>
 
 # 👩‍💻  About Me
 
 <img align="right" margin-left="20px" alt="Coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-🔭 I’m highly skilled in **Frontend Developement** devoted to delivering high-quality work.<br><br>
+🔭 I’m highly skilled in **Frontend Developement** devoted to delivering high-quality work.
+<br><br>
 ⚡ Committed to continuous skill enhancement in desired areas .
 <br><br>
-🎮 Open-source is the game - feel free to explore, fork, and star my repo.<br><br>
-<br><br><br>
+🎮 Open-source is the game - feel free to explore, fork, and star my repo.
+<br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
+<br><br><br>
 
-## 🛠 Language and tools
+## 🛠 Languages and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -59,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374167/vite.svg height="40" alt="vite logo" />
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="vite logo" />
   <img width="12" />
 </div>
 
