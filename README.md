@@ -34,7 +34,7 @@
 <br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 
-<br><br>
+<br>
 
 ## 🛠 Languages and tools
 <div align="left">
