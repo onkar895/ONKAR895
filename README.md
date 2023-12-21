@@ -77,9 +77,9 @@
   
 ## 🔥 My Stats:
 
-<div align="center" display="flex" gap="10">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&show_icons=true&locale=en&layout=compact" height="200" alt="onkar895" />
-   &nbsp; &nbsp; &nbsp;
+   <br>
    <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="200" alt="onkar895" />
 </div>
 <br>
