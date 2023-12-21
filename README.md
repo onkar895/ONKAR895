@@ -16,30 +16,55 @@
   </a>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat" alt="onkar895" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat" alt="onkar895" /> </p>
 
 # 👩‍💻  About Me
 
-<img align="right" margin-left="20px" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" margin-left="20px" alt="Coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-🔭 I’m highly skilled in both **Frontend & Backend**.<br><br>
-📈 Currently learning **Next.js && Typescipt**<br><br>
-🥹 Braving the depths of Leetcode nowadays.
+🔭 I’m highly skilled in **Frontend Developement** devoted to delivering high-quality work.<br><br>
+⚡ Committed to continuous skill enhancement in desired areas .
 <br><br>
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.<br><br>
-🤣 Expect to find a treasure trove of puns, witty comments, and<br> hilarious Easter eggs sprinkled throughout my code.<br><br>
-⚡When I'm not coding, I eat, geek out over the latest tech or Network
 <br><br><br>
+😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 
-<h3 align="left">Programming Languages:</h3>
+## 🛠 Language and tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374167/vite.svg height="40" alt="vite logo" />
+  <img width="12" />
+</div>
 
-<p align="left"> 
-<h3 align="left"><div class="icons8-front-end"></div>Front-End Development:</h3>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svghttps://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<br>
   
-
 <h3 align="left">Other:</h3>
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
