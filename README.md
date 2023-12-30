@@ -28,9 +28,11 @@
 
 🔭 I’m highly skilled in **Frontend Developement** devoted to delivering high-quality work.
 <br><br>
-⚡ Committed to continuous skill enhancement in desired areas .
+⚡ I endorse the **Learning By Doing principle** as an efficacious method for mastering any technology.
 <br><br>
 🎮 Open-source is the game - feel free to explore, fork, and star my repo.
+<br><br>
+🤝 I’m actively looking for Internships and Jobs, preferably in Software Development Role.
 <br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 
