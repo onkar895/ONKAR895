@@ -2,7 +2,7 @@
    <h1 font-family="Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3001&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Passionate+Front-End+Developer+😉" </p>
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=300&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Passionate+Front-End+Developer+😉" </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
