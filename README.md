@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Drop your ideas&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Drop your ideas&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&theme=dracula" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.twitter.com/Onkar895" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop%20a%20Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -94,7 +94,7 @@
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" alt="onkar895" />
    <br><br>
-   <img  src=" https://github-readme-stats.vercel.app/api?username=onkar89&show_icons=true" height="200" alt="onkar895" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&theme=dracula&show_icons=true" height="200" alt="onkar895" />
    <br><br>
    <img  src="http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula" height="200" alt="onkar895" />
 </div>
