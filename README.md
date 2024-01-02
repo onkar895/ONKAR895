@@ -90,12 +90,17 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&show_icons=true&locale=en&layout=compact" height="220" alt="onkar895" />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula)](https://git.io/streak-stats)
    <br><br>
    <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en" height="200" alt="onkar895" />
 </div>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=onkar895&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkar895&theme=vue)
+   ![](https://activity-graph.herokuapp.com/graph?username=onkar895&theme=dracula&hide_border=true&area=true)
 </div>
 <p/>
 </a>
