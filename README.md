@@ -19,8 +19,10 @@
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="onkar895" /></p>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/onkar895?color=tomato&logo=github&theme=dracula">
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="onkar895" />
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/onkar895?color=tomato&logo=github&theme=dracula">
+</p>
 
 <br><br>
 
@@ -92,7 +94,7 @@
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" alt="onkar895" />
    <br><br>
-   <img  src=" https://github-readme-stats.vercel.app/api?username=onkar89&show_icons=true&theme=dracula" height="200" alt="onkar895" />
+   <img  src=" https://github-readme-stats.vercel.app/api?username=onkar89&show_icons=true" height="200" alt="onkar895" />
    <br><br>
    <img  src="http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula" height="200" alt="onkar895" />
 </div>
