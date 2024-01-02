@@ -90,12 +90,12 @@
 
 <div align="center">
 
+ <img  src="[https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula)" height="180" alt="onkar895" />
    [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
    <br><br>
    <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en&theme=dracula" height="200" alt="onkar895" />
    <br><br>
    <img  src="http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula" height="200" alt="onkar895" />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula)](https://git.io/streak-stats)
 </div>
 <br>
 <div align="center">
