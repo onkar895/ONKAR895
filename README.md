@@ -106,7 +106,7 @@
    
 </div>
 
-<h1 align='center'>⚡️<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand !"
+<h2 align='center'>⚡️<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand !"
 – Martin Fowler</i>⚡️</h1>
 
 <p/>
