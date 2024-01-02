@@ -1,5 +1,5 @@
 <div align="center">
-   <h1 font-family="Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
+   <h1 style="font-family:Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Passionate+Front-End+Developer+😉" </p>
