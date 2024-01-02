@@ -96,8 +96,8 @@
 <br>
 <div align="center">
    
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkar895&theme=vue&theme=dracula)
-   ![](https://activity-graph.herokuapp.com/graph?username=onkar895&theme=dracula&hide_border=true&area=true&theme=dracula)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkar895&theme=dracula)
+   ![](https://activity-graph.herokuapp.com/graph?username=onkar895&theme=dracula&hide_border=true&area=true)
    
 </div>
 <p/>
