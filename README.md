@@ -92,6 +92,9 @@
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" alt="onkar895" />
    <br><br>
    <img  src="http://github-readme-streak-stats.herokuapp.com?user=onkar895&theme=dracula" height="200" alt="onkar895" />
+   <br><br>
+   <img align="right" width="300" height="300" src="https://github.com/onkar895/Images/blob/master/hello.gif"></a>
+   <img  src="https://metrics.lecoq.io/onkar895&theme=dracula" height="200" alt="onkar895" />
 </div>
 <br>
 <div align="center">
