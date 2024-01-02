@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" font-family="Trebuchet MS">
    <h1>Hi 👋, I'm Omkar Karale</h1> 
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
