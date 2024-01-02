@@ -105,6 +105,10 @@
    ![](https://activity-graph.herokuapp.com/graph?username=onkar895&theme=dracula&hide_border=true&area=true)
    
 </div>
+
+<h1 align='center'>⚡️<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand !"
+– Martin Fowler</i>⚡️</h1>
+
 <p/>
 </a>
 </p>
