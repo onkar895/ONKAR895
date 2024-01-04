@@ -1,8 +1,4 @@
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="300" width="800" alt=""  />
-</div>
-   
-<div align="center">
+  <div align="center">
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> -->
    <h1 style="font-family:Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
 </div>
@@ -35,7 +31,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" margin-left="20px" alt="Coding" width="450" height="320" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" margin-left="20px" alt="Coding" width="450" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 🔭 I’m highly skilled in **Frontend Development** devoted to delivering high-quality work.
 <br><br>
