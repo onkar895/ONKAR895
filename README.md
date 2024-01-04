@@ -1,3 +1,7 @@
+<div>
+   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop%20a%20Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" height="100" alt=""  />
+</div>
+   
 <div align="center">
    <h1 style="font-family:Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
 </div>
