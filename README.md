@@ -7,18 +7,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect With Me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&theme=dracula" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect With Me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&theme=dracula" height="22" alt="linkedin logo"  />
   </a>
   <a href="https://www.twitter.com/Onkar895" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop%20a%20Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop%20a%20Hi!&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
   </a>
   
   <a href="mailto:onkarkarale4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If you love the traditional way&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If you love the traditional way&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
   </a>
 
   <a href="https://www.discordapp.com/users/Onkar895" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Drop your ideas&color=5A67F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Drop your ideas&color=5A67F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
   </a>
   
 </div>
