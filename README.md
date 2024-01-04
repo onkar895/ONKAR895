@@ -50,7 +50,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
+# Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -99,7 +99,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
-## 🔥 My Stats:
+# 🔥 My Stats:
 
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" alt="onkar895" />
