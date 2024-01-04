@@ -33,7 +33,7 @@
 
 <img align="right" margin-left="20px" alt="Coding" width="500" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
-🔭 I’m highly skilled in **Frontend Development** devoted to delivering high-quality work.
+🔭 I’m highly skilled in **Frontend Development**.
 <br><br>
 ⚡ I endorse the **Learning By Doing principle** as an efficacious method for mastering any technology.
 <br><br>
