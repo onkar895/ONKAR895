@@ -31,7 +31,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" margin-left="20px" alt="Coding" width="450" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" margin-left="20px" alt="Coding" width="400" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 🔭 I’m highly skilled in **Frontend Development** devoted to delivering high-quality work.
 <br><br>
