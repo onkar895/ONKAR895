@@ -3,7 +3,9 @@
 </div>
    
 <div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
    <h1 style="font-family:Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
+   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Passionate+Front-End+Developer+😉" </p>
@@ -50,7 +52,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
+## 🚀 Languages and tools 
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -99,7 +101,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
-# 🔥 My Stats:
+## 🔥 My Stats:
 
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" alt="onkar895" />
