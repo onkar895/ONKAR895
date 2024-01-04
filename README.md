@@ -1,5 +1,5 @@
   <div align="center">
-<!--    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> -->
+   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
    <h1 style="font-family:Trebuchet MS">Hi 👋, I'm Omkar Karale</h1> 
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
@@ -31,7 +31,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" alt="Coding" width="400" height="260" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" alt="Coding" width="400" height="270" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 🔭 I’m highly skilled in **Frontend Development** specializing in building scalable and top-notch web applications.
 <br><br>
@@ -47,7 +47,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🚀 Languages and tools 
+## 🚀 Programming Languages and Tools 
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
