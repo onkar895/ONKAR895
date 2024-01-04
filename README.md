@@ -50,7 +50,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+## Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -96,10 +96,6 @@
 </div>
 
 <br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=onkar895&theme=dracula&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
