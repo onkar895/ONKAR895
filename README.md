@@ -16,6 +16,11 @@
   <a href="mailto:onkarkarale4@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If you love the traditional way&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+
+  <a href="https://www.discord.com/Onkar895" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Drop%20a%20Hi!&color=5A67F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  
 </div>
 
 <br>
