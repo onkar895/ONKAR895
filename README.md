@@ -31,7 +31,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" margin-left="30px" alt="Coding" width="400" height="280" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" margin-left="30px" alt="Coding" width="420" height="280" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 🔭 I’m highly skilled in **Frontend Development** specializing in building scalable and top-notch web applications.
 <br><br>
@@ -43,7 +43,7 @@
 <br><br>
 😀 Follow me, and let's explore the impactful possibilities we can create in the ever-evolving realm of software development. 
 
-<br><br>
+<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
