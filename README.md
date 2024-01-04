@@ -22,7 +22,6 @@
 </div>
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="onkar895" />
@@ -30,6 +29,8 @@
 </p>
 
 <br><br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 👩‍💻  About Me
 
@@ -47,7 +48,9 @@
 
 <br><br>
 
-## 🛠 Languages and tools
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## Languages and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -93,6 +96,8 @@
 </div>
 
 <br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 ## 🔥 My Stats:
 
@@ -110,6 +115,8 @@
    ![](https://activity-graph.herokuapp.com/graph?username=onkar895&theme=dracula&hide_border=true&area=true)
    
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align='center'>⚡️<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand !"
 – Martin Fowler</i>⚡️</h1>
