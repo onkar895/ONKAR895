@@ -101,7 +101,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=onkar895" alt="onkar895" width="1000" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=onkar895&theme=dracula" alt="onkar895" width="1000" /></a> </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🔥 My Stats:
