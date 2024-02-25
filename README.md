@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If you love the traditional way&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.discordapp.com/users/Onkar895" target="_blank">
+  <a href="https://discord.com/users/1141731321027231855" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Drop your ideas&color=5A67F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
   </a>
   
@@ -76,7 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" /> &nbsp;
+  <img width="12" /> &nbsp; <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
