@@ -40,9 +40,9 @@
 
 🔭 I’m highly skilled in **Frontend Development** specializing in building scalable and top-notch web applications.
 <br><br>
-⚡ I endorse the **Learning By Doing principle** as an efficacious method for mastering any technology.
+💻 Currently focusing on learning Next.js, Node.js, and Express.js.
 <br><br>
-🎮 Feel free to **explore, fork,** and **star** my repo.
+🎮 Feel free to **explore, fork,** and **star** my repositories.
 <br><br>
 🤝 I’m actively looking for **Internships and Jobs**, preferably in Software Development Role.
 <br><br>
