@@ -40,7 +40,7 @@
 
 🔭 I’m highly skilled in **Frontend Development** specializing in building scalable and top-notch web applications.
 <br><br>
-💻 Currently focusing on learning Next.js, Node.js, and Express.js.
+💻 Currently focusing on learning **Next.js**, **Node.js**, and **Express.js.**
 <br><br>
 🎮 Feel free to **explore, fork,** and **star** my repositories.
 <br><br>
