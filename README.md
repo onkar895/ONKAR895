@@ -35,7 +35,7 @@
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img align="right" alt="Coding" width="1920" height="450" src="https://drive.google.com/file/d/1TTlirybjgzMbc5JQo_Dr7HAhhKXv-ceM/view?usp=sharing" />
+<img align="right" alt="Coding" width="1920" height="450" src="https://drive.google.com/file/d/1HKqDzojOxQ6JN2ngAL7_jL36cEnqZ-bZ/view?usp=sharing" />
 
 ## 👩‍💻  About Me
 
