@@ -35,7 +35,7 @@
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img align="right" alt="Coding" width="1920" height="450" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1717706698~exp=1717710298~hmac=0cfdb323068561c61773976ad21c01309152a7f19cb4ffc7e968748169dc58d8&w=900" />
+<img align="right" alt="Coding" width="1920" height="500" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1717706698~exp=1717710298~hmac=0cfdb323068561c61773976ad21c01309152a7f19cb4ffc7e968748169dc58d8&w=900" />
 
 ## 👩‍💻  About Me
 
