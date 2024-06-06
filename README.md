@@ -35,11 +35,11 @@
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<img align="right" alt="Coding" width="1920" height="420" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+
 # 👩‍💻  About Me
 
-<img align="right" alt="Coding" width="420" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
-
-🔭 I’m highly skilled in **Frontend Development** specializing in React.js in building scalable and top-notch web applications.
+🛠️  I’m highly skilled in **Frontend Development** specializing in React.js in building scalable and top-notch web applications.
 <br><br>
 🎨 Strong command on **Bootstrap,** **Material UI,** **Tailwind CSS** and **responsive design principles.**
 <br><br>
