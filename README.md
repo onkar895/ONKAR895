@@ -4,7 +4,7 @@
    <p> I'm <strong>Omkar Karale</strong>, a frontend developer passionate about delivering user-friendly, engaging and performance-optimized user interfaces.🌐✨</h2>
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Passionate+Front-End+Developer+😉" </p>
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Front-End+Developer+😉" </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
@@ -37,7 +37,7 @@
 
 # 👩‍💻  About Me
 
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" alt="Coding" width="420" height="320" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 🔭 I’m highly skilled in **Frontend Development** specializing in React.js in building scalable and top-notch web applications.
 <br><br>
