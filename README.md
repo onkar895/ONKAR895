@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-   <h1 style="font-family:Trebuchet MS">Hi Guys👋, Welcome to my Profile!😎</h1>
+   <h1 style="font-family:Trebuchet MS">Hi Guys👋, Welcome To My Profile!😎</h1>
    <p> I'm <strong>Omkar Karale</strong>, a frontend developer passionate about delivering user-friendly, engaging and performance-optimized user interfaces.🌐✨</h2>
 </div>
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
