@@ -110,11 +110,11 @@
 ## 🔥 My Stats:
 
 <div align="center">
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" height="200" width="500" alt="onkar895" />
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar895&layout=compact&theme=dracula" width="500" alt="onkar895" />
    <br>
-   <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&theme=dracula&show_icons=true" height="200" width="600" alt="onkar895" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=onkar895&theme=dracula&show_icons=true" height="200" alt="onkar895" />
    <br>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=onkar895&show_icons=true&locale=en&theme=dracula" height="700" width="500" alt="onkar895" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=onkar895&show_icons=true&locale=en&theme=dracula" height="200" alt="onkar895" />
 </div>
 
 <br>
