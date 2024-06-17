@@ -6,6 +6,7 @@
 <!-- <h3 align="center">A Passionate Front-End Developer 🚀</h2> -->
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Front-End+Developer+😉" </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="omkarkarale541" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/omkarkarale541?trk=profile-badge">Omkar Karale</a></div>
               
 
